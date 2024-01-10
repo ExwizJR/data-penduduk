@@ -1,4 +1,3 @@
-#LOUIS MAHARDHIKA 5230411139
 #(kode 1=PNS, 2=TNI/POLRI, 3=Pedagang, 4=Petani, 5=Nelayan, 6=Buruh) 
 #(kode 1=Islam, 2=Prostestan, 3=Katholik, 4=Hindu, 5=Budha, 6=Konghucu)
 #(kode L=Laki-laki, P=Perempuan)
